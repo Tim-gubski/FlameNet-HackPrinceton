@@ -2,7 +2,7 @@
 
 ![](./src/flamenet-logo-white.png)
 
-A distributed network system capable of early wildfire detection in areas without developed infrastructure.
+<h4 align="center">A distributed network system capable of early wildfire detection in areas without developed infrastructure.</h4>
 
 Live Demo at [https://flamenet-b780e.web.app/dashboard]
 
