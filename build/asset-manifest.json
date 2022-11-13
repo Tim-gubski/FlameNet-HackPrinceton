@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.753036a1.css",
+    "main.js": "/static/js/main.32772aee.js",
+    "static/js/787.2d5250ab.chunk.js": "/static/js/787.2d5250ab.chunk.js",
+    "static/media/defend.png": "/static/media/defend.1a49464fcbb19e53b982.png",
+    "static/media/okanagan-nodemap.png": "/static/media/okanagan-nodemap.3284160c954d58796327.png",
+    "static/media/detector.png": "/static/media/detector.dfaec22c8264027180ab.png",
+    "static/media/dispatch.png": "/static/media/dispatch.87ac020d7f09656ad68e.png",
+    "static/media/flamenet-logo-white.png": "/static/media/flamenet-logo-white.8f4815dccea8ff0ad0d8.png",
+    "index.html": "/index.html",
+    "main.753036a1.css.map": "/static/css/main.753036a1.css.map",
+    "main.32772aee.js.map": "/static/js/main.32772aee.js.map",
+    "787.2d5250ab.chunk.js.map": "/static/js/787.2d5250ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753036a1.css",
+    "static/js/main.32772aee.js"
+  ]
+}
