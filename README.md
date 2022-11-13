@@ -4,7 +4,8 @@
 
 <h4 align="center">A distributed network system capable of early wildfire detection in areas without developed infrastructure.</h4>
 
-Live Demo at [https://flamenet-b780e.web.app/dashboard]
+<h4 align="center">Live Demo at [https://flamenet-b780e.web.app/dashboard]</h4>
+
 
 <h4 align="center">FlameNet Dashboard</h4>
 
