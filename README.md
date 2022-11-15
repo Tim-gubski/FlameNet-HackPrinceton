@@ -3,6 +3,7 @@
 ![](./src/flamenet-logo-white.png)
 
 <h4 align="center">A distributed network system capable of early wildfire detection in areas without developed infrastructure.</h4>
+<h4 align="center">Project by: Tim Gubskiy, Daniel Sabourov, and Ryan Lee</h4>
 
 <h4 align="center">Live Demo at [https://flamenet-b780e.web.app/dashboard]</h4>
 
