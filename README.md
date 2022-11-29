@@ -1,3 +1,5 @@
+<h1> FOR THE VERSION OF THE REPO WITH ALL OF THE COMMIT HISTORY, GO TO https://github.com/Tim-gubski/flamenet </h1>
+
 # FlameNet
 
 ![](./src/flamenet-logo-white.png)
